@@ -1,0 +1,39 @@
+body{
+	background-color: gray;
+}
+
+
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+
+
+ th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  background-color: gray;  
+}
+
+td{
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+	
+}
+
+
+a{
+	color: white;
+}
+
+
+
+
+
